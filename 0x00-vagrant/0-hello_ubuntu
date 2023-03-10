@@ -1,2 +1,2 @@
-#!bin/bash
-basic system information
+#!/bin/bash
+kernel name
